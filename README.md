@@ -1,4 +1,6 @@
-# Airbnb JavaScript Style Guide() {
+# ReachLocal JavaScript Style Guide
+
+*Forked from [Airbnb's style guide](https://github.com/airbnb/javascript)*
 
 *A mostly reasonable approach to JavaScript*
 
